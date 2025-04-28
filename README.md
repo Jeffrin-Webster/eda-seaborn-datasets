@@ -4,10 +4,12 @@ This repository contains EDA projects performed on popular Seaborn datasets usin
 
 ## ✅ Datasets Covered
 
-- 💡 Tips (Restaurant tipping behavior)
-- ✈️ Flights (Monthly passengers data)
-- 💎 Diamonds (Price and characteristics)
 - 🚗 Car Crashes (US state-wise accidents and insurance)
+- 💎 Diamonds (Price and characteristics)
+- ✈️ Flights (Monthly passengers data)
+- 💡 Tips (Restaurant tipping behavior)
+
+
 
 ## 📁 Folder Structure
 
